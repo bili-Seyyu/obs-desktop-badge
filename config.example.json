@@ -1,0 +1,27 @@
+{
+  "obs": {
+    "host": "127.0.0.1",
+    "port": 4455,
+    "use_password": false,
+    "password": ""
+  },
+  "badge": {
+    "screen_index": 0,
+    "anchor": "bottom-right",
+    "offset_x": 24,
+    "offset_y": 24,
+    "size": 21,
+    "opacity": 1.0,
+    "spacing": 8,
+    "direction": "vertical",
+    "order": ["stream", "record", "replay", "virtualcam"]
+  },
+  "icons": {
+    "icon_set": "default"
+  },
+  "autostart": {
+    "low_priority": true,
+    "minimize_to_tray": true,
+    "close_to_tray": true
+  }
+}

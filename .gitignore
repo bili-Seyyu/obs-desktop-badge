@@ -1,0 +1,28 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 第三方依赖(由 install_deps.py / pip 安装到 vendor, 不入库)
+vendor/
+
+# PyInstaller 构建产物
+build/
+dist/
+
+# 分发包与可执行文件(通过 GitHub Releases 发布, 不入库)
+分发用/
+*.exe
+
+# 本地运行时配置(含连接信息与密码, 勿提交)
+config.json
+
+# 临时文件
+.tmp/
+*.tmp
+
+# 含私密信息的个人资料
+WebSocket服务器(测试用).txt
+launch_reference.txt
+
+# 程序生成的启动脚本(含本机路径, 由软件按需生成)
+obs_badge_autostart.lua
