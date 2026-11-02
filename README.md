@@ -2,6 +2,8 @@
 
 在屏幕上悬浮显示 OBS 当前状态角标（直播、录制、回放缓存、虚拟摄像机），类似 NVIDIA 录像/回放状态角标。基于 OBS 内置的 WebSocket（obs-websocket）读取状态，纯本地运行，不上传任何数据。
 
+演示视频:https://www.bilibili.com/video/BV1iF4w6NE5E/
+
 ## 功能特性
 
 - **四种状态实时显示**：推流/直播、录制、回放缓存、虚拟摄像机
