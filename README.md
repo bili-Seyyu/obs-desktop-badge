@@ -110,8 +110,8 @@ install_deps.py         依赖安装
 - 昵称：**四羽Seyyu**
 - bilibili：<https://space.bilibili.com/84125742>
 
-## 声明
+## 许可证
 
-本软件**完全免费**，可**商用使用**，**禁止二次分发**。
+本项目采用 [MIT License](LICENSE)。
 
-> 注：此声明并非标准开源许可证——标准开源许可通常允许二次分发，与本项目声明不同。请在遵守此声明的前提下使用。
+Copyright (c) 2026 四羽Seyyu
